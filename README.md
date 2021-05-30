@@ -1,10 +1,10 @@
-Hi there, I'm Harsh - aka MarvelCoder 👋
+### Hey there, I'm Harsh - aka MarvelCoder 🤟
 
-I am a QA Engineer by profession who has wore many hats from fields like "Automation","Performance","Accessibility".
-
-I am very much inclined towards problem solving through coding.
+ - ❤️  I'm big time Marvel fan(Figured from my handle)
+ - 💻 C, Java
+ - 📫 How to reach me: [hsengar89@gmail.com](hsengar89@gmail.com) or <a rel="me" href="https://in.linkedin.com/in/hsengar89">Harsh Sengar</a> 
 
 Competitive Programming Profiles
 
-  1. [CodeChef](https://www.codechef.com/users/marvelcoder)
-  2. [CodeForces](https://codeforces.com/profile/marvelcoder)
+  - [CodeChef](https://www.codechef.com/users/marvelcoder)
+  - [CodeForces](https://codeforces.com/profile/marvelcoder)
