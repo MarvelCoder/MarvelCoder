@@ -1,4 +1,4 @@
-### Hey there, I'm Harsh - aka MarvelCoder 🤟
+### Hey there, I'm Harsh - A.K.A MarvelCoder 🤟
 
  - ❤️  I'm big time Marvel fan(Figured from my handle)
  - 💻 C, Java
